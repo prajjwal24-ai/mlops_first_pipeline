@@ -4,4 +4,4 @@ joblib
 uvicorn
 pydantic
 pytest
-https2
+httpx2
